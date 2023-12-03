@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "mage-core",
+    "nan",
+]
+resolver = "2"

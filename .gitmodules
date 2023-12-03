@@ -1,0 +1,3 @@
+[submodule "mage-core"]
+	path = mage-core
+	url = git@github.com:baad-c0de/mage-core.git
